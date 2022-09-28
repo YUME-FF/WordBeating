@@ -9,3 +9,5 @@ This program is designed to be written in C++ language, establishes a dialog-bas
 - Added the advertisement field, and realized the function of clicking the advertisement and jumping to the corresponding website by using the encapsulation and calling of the DLL.
 - The scrolling playback of advertisements is implemented using threads and custom messages.
 
+## Functional Description — Script Structure
+
