@@ -5,6 +5,7 @@
 
 ## E-dictionary Interface
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/interface.jpg" width="600px">
+
 # Welcome to star my work!
 
 ## Function
