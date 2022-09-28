@@ -1,6 +1,10 @@
 # WordBeating
 ## E-dictionary
-This program is designed to be written in C++ language, establishes a dialog-based MFC program, and connects to MySQL and ODBC databases and data sources.
+  This program is designed to be written in C++ language, establishes a dialog-based MFC program, and connects to MySQL and ODBC databases and data sources.
+  Mainly applied to the inheritance and overloading of classes; the use of dialog boxes; the use of MFC controls; the beautification of controls; custom messages; the use of threads and thread communication; DLL packaging and calling; Finally, an electronic dictionary program with many functions and beautiful appearance is realized.
+## E-dictionary Interface
+
+
 
 ## Function
 - Ability to communicate with and edit databases.
