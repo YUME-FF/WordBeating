@@ -38,16 +38,16 @@
 ### Word Addition, Editing, Deletion
 - Addition
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="300px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="350px">
 - Editing
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="300px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="350px">
 - Deletion
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="350px">
 
 ### Output dataset
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/outputworddataset.png" width="300px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/outputworddataset.png" width="350px">
 
 ### Ad Link Jump
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="300px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="350px">
