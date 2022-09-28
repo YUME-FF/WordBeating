@@ -51,3 +51,6 @@
 
 ### Ad Link Jump
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="600px">
+
+
+# Welcome to star my work!
