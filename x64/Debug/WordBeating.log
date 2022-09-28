@@ -1,0 +1,13 @@
+﻿  CTabDlg2.cpp
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(101,38): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(102,36): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(213,3): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(213,3): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(263,3): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(263,3): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(339,4): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(339,4): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(345,4): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(345,4): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'CString'
+D:\VS2017\vs_work\WordBeating\CTabDlg2.cpp(189): warning C4715: 'CTabDlg2::ConnectDatabase': not all control paths return a value
+  WordBeating.vcxproj -> D:\VS2017\vs_work\WordBeating\x64\Debug\WordBeating.exe

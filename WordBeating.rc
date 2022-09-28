@@ -1,0 +1,312 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(65001)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+#include "verrsrc.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_NEUTRAL
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_WORDBEATING_DIALOG DIALOGEX 0, 0, 557, 409
+STYLE DS_SETFONT | DS_3DLOOK | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "Word Beating"
+FONT 8, "MS Sans Serif", 400, 0, 0x0
+BEGIN
+    CONTROL         "",IDC_TAB_MAIN,"SysTabControl32",TCS_FORCEICONLEFT | TCS_MULTILINE | TCS_FIXEDWIDTH,7,0,543,400
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_WORDBEATING_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 552
+        VERTGUIDE, 550
+        BOTTOMMARGIN, 403
+        HORZGUIDE, 402
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_WORDBEATING_DIALOG AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // English resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAINDIALOG_TAB1 DIALOGEX 0, 0, 551, 403
+STYLE DS_SETFONT | WS_CHILD | WS_SYSMENU
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    EDITTEXT        IDC_EDIT_WDSEARCH,74,42,415,16,ES_MULTILINE | ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    CONTROL         "查询",IDC_BUTTON_WDSEARCH,"Button",BS_OWNERDRAW | WS_TABSTOP,439,63,50,14
+    EDITTEXT        IDC_EDIT_ANSSHOW,78,187,393,87,ES_MULTILINE | WS_VSCROLL,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_WDSHOW,75,95,146,30,ES_MULTILINE | ES_AUTOHSCROLL,WS_EX_STATICEDGE
+    CONTROL         "+",IDC_BUTTON_USER,"Button",BS_OWNERDRAW | WS_TABSTOP,510,7,27,19
+    CONTROL         "中英译文",IDC_STATIC1,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,77,169,80,14
+    CONTROL         "Button1",IDC_BUTTON_AD,"Button",BS_OWNERDRAW | WS_TABSTOP,76,287,50,14
+    CONTROL         "请输入英文/中文",IDC_STATIC2,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,73,26,105,14
+    LTEXT           "：",IDC_STATIC,132,170,9,8
+    CONTROL         "：",IDC_STATIC,"Static",SS_LEFTNOWORDWRAP | WS_GROUP,185,29,38,9
+END
+
+IDD_MAINDIALOG_TAB2 DIALOGEX 0, 0, 557, 396
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CENTER | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x86
+BEGIN
+    CONTROL         "查询所有",IDC_BUTTON_DBSEARCH,"Button",BS_OWNERDRAW | WS_TABSTOP,471,86,69,42
+    CONTROL         "添加",IDC_BUTTON_ADD,"Button",BS_OWNERDRAW | WS_TABSTOP,187,238,70,18
+    CONTROL         "删除",IDC_BUTTON_DELETE,"Button",BS_OWNERDRAW | WS_TABSTOP,444,345,59,21
+    CONTROL         "修改",IDC_BUTTON_EDIT,"Button",BS_OWNERDRAW | WS_TABSTOP,370,345,51,18
+    EDITTEXT        IDC_EDIT_WORD,48,237,132,19,ES_MULTILINE | WS_VSCROLL
+    CONTROL         "",IDC_LIST_DBSHOW,"SysListView32",LVS_REPORT | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,56,15,406,194
+    EDITTEXT        IDC_EDIT_MEANING,46,285,457,47,ES_MULTILINE | WS_VSCROLL
+    LTEXT           "单词",IDC_STATIC,49,220,24,13
+    LTEXT           "翻译",IDC_STATIC,46,267,24,13
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_MAINDIALOG_TAB1, DIALOG
+    BEGIN
+        VERTGUIDE, 550
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 401
+        HORZGUIDE, 400
+    END
+
+    IDD_MAINDIALOG_TAB2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 550
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 389
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_MAINDIALOG_TAB1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_MAINDIALOG_TAB2 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "#include ""verrsrc.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#include ""res\\WordBeating.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""      // Standard components\r\n"
+    "#if !defined(_AFXDLL)\r\n"
+    "#include ""afxribbon.rc""   // MFC ribbon and control bar resources\r\n"
+    "#endif\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON                ICON                    "res\\icon.ico"
+
+IDI_ICON1               ICON                    "res\\icon_PG00.ico"
+
+IDI_ICON2               ICON                    "res\\icon_PG01.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "TODO: <Company name>"
+            VALUE "FileDescription", "WordBeating"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "WordBeating.exe"
+            VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+            VALUE "OriginalFilename", "WordBeating.exe"
+            VALUE "ProductName", "TODO: <Product name>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP_AD00         BITMAP                  "res\\AD.bmp"
+
+IDB_BITMAP_SEARCH       BITMAP                  "res\\search.bmp"
+
+IDB_BITMAP_TAB2         BITMAP                  "res\\tab1.bmp"
+
+IDB_BITMAP_TAB1         BITMAP                  "res\\tab2.bmp"
+
+IDB_BITMAP_BACKGROUND   BITMAP                  "res\\background.bmp"
+
+IDB_BITMAP_BACKGROUND2  BITMAP                  "res\\background2.bmp"
+
+IDB_BITMAP_AD01         BITMAP                  "res\\AD01.bmp"
+
+IDB_BITMAP_USER         BITMAP                  "res\\user.bmp"
+
+IDB_BITMAP_ADD          BITMAP                  "res\\add.bmp"
+
+IDB_BITMAP_EDIT         BITMAP                  "res\\edit.bmp"
+
+IDB_BITMAP_SEARCHALL    BITMAP                  "res\\searchall.bmp"
+
+IDB_BITMAP_DELETE       BITMAP                  "res\\delete.bmp"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE 9, 1
+#include "res\WordBeating.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"      // Standard components
+#if !defined(_AFXDLL)
+#include "afxribbon.rc"   // MFC ribbon and control bar resources
+#endif
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
