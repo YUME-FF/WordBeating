@@ -4,6 +4,7 @@
 - Mainly applied to the inheritance and overloading of classes; the use of dialog boxes; the use of MFC controls; the beautification of controls; custom messages; the use of threads and thread communication; DLL packaging and calling; Finally, an electronic dictionary program with many functions and beautiful appearance is realized.
 
 ## E-dictionary Interface
+### Word Translation
 
 
 
