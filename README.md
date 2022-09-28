@@ -9,13 +9,6 @@
 ### Word Translation
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/wordtrans.png" width="400px">
 
-### Word Addition, Editing, Deletion
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="300px">
-
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="300px">
-
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px">
-
 ## Function
 - Through the native ODBC data source, create a new MySQL-based data table in navicat, the table name is word, and there are two columns in the table, the first column is word, the column name is Vocabulary, the second column is translation, and the column name is Meaning. And import about 1000 English words and their corresponding Chinese-English translations into the data table in advance.
 
@@ -41,3 +34,18 @@
 ## Functional Description — Function Variable Architecture
 
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/Variable%20Architecture.png" width="1000px">
+
+
+### Word Addition, Editing, Deletion
+- Addition
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="300px">
+- Editing
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="300px">
+- Deletion
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px">
+
+### Output dataset
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/outputworddataset.png" width="300px">
+
+### Ad Link Jump
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="300px">
