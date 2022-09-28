@@ -25,12 +25,12 @@
 
 ## Functional Description — Script Structure
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/Structure.png" width="1000px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/Structure.png" width="800px">
 
 
 ## Functional Description — Function Variable Architecture
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/Variable%20Architecture.png" width="1000px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/Variable%20Architecture.png" width="800px">
 
 ### Word Translation
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/wordtrans.png" width="400px">
@@ -38,16 +38,16 @@
 ### Word Addition, Editing, Deletion
 - Addition
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="350px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="400px">
 - Editing
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="350px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="400px">
 - Deletion
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="350px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="350px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="400px">
 
 ### Output dataset
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/outputworddataset.png" width="350px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/outputworddataset.png" width="400px">
 
 ### Ad Link Jump
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="350px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="600px">
