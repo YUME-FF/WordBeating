@@ -4,17 +4,17 @@
 - Mainly applied to the inheritance and overloading of classes; the use of dialog boxes; the use of MFC controls; the beautification of controls; custom messages; the use of threads and thread communication; DLL packaging and calling; Finally, an electronic dictionary program with many functions and beautiful appearance is realized.
 
 ## E-dictionary Interface
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/interface.jpg" width="1000px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/interface.jpg" width="600px">
 
 ### Word Translation
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/wordtrans.png" width="600px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/wordtrans.png" width="400px">
 
 ### Word Addition, Editing, Deletion
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="400px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/addword2.png" width="300px">
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="400px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword2.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/reviseword3.png" width="300px">
 
-<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="400px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="400px">
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px"><img src="https://github.com/YUME-FF/WordBeating/blob/main/images/deleteword.png" width="300px">
 
 ## Function
 - Through the native ODBC data source, create a new MySQL-based data table in navicat, the table name is word, and there are two columns in the table, the first column is word, the column name is Vocabulary, the second column is translation, and the column name is Meaning. And import about 1000 English words and their corresponding Chinese-English translations into the data table in advance.
