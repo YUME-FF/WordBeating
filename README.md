@@ -5,6 +5,7 @@
 
 ## E-dictionary Interface
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/interface.jpg" width="600px">
+# Welcome to star my work!
 
 ## Function
 - Through the native ODBC data source, create a new MySQL-based data table in navicat, the table name is word, and there are two columns in the table, the first column is word, the column name is Vocabulary, the second column is translation, and the column name is Meaning. And import about 1000 English words and their corresponding Chinese-English translations into the data table in advance.
@@ -51,6 +52,3 @@
 
 ### Ad Link Jump
 <img src="https://github.com/YUME-FF/WordBeating/blob/main/images/adto.png" width="600px">
-
-
-# Welcome to star my work!
