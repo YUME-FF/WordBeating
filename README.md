@@ -11,3 +11,9 @@ This program is designed to be written in C++ language, establishes a dialog-bas
 
 ## Functional Description — Script Structure
 
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/structure.png" width="600px">
+
+
+## Functional Description — Function Variable Architecture
+
+<img src="https://github.com/YUME-FF/WordBeating/blob/main/images/structure.png" width="600px">
