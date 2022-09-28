@@ -1,0 +1,2 @@
+# WordBeating
+E-dictionary
